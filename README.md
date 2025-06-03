@@ -1,9 +1,9 @@
 ## Hello GitHub Fans 👋
-🌏[足迹](https://trails.rudymemo.com/)  
+🌏[足迹](https://trails.rudymemo.org/)  
 
-🎵[音乐](https://music.rudymemo.com/)  
+🎵[音乐](https://music.rudymemo.org/)  
 
-📖[一言](https://motto.rudymemo.com/) 
+📖[一言](https://motto.rudymemo.org/) 
 
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
